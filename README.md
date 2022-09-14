@@ -6,6 +6,11 @@ Jeedom est un serveur domotique compatible avec de nombreaux protocoles.
 ## Utilisation de code Blocky via UIFlow 
 Firmware UIFlow envoyé avec M5Burner.
 Puis code fichier .m5f chargé avec UIFlow-DESKtop-IDE 
+Modifier les variables :
+- varApi avec l'API de jeedom
+- varIp avec l'IP de jeedom
+- les id des commandes de température du chauffe-eau, de l'état du chauffe-eau, de l'état du plugin chauffeau, du prochain démarrage, de la consigne de température, 
+- des valeurs de largeur et hauteur du tableau
 
 But du code :
 - afficher la température actuelle du ballon, récupérée via requête GET http avec clé api jeedom, (Réalisé)
