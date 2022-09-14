@@ -10,5 +10,6 @@ Puis code fichier .m5f chargé avec UIFlow-DESKtop-IDE
 But du code :
 - afficher la température actuelle du ballon, récupérée via requête GET http avec clé api jeedom, (Réalisé)
 - afficher un graphique sur 24 heures de la température de la sonde de température située dans le ballon chauffe-eau, (Réalisé)
+- mise à jour des valeurs tous les X intervalles, (Réalisé)
 - afficher 3 boutons en bas de page indiquant l'état actuel du plugin Chauffeau de Jeedom (pour rappel, le plugin Chauffeau calcul le temps nécessaire à la montée en température de consigne de l'eau par le ballon tout en prenant en compte les HP/HC). (Réalisé)
 - rendre le bouton de changer d'état du plugin Chauffeau clicable afin de déclencher une chauffe de l'eau. (à faire)
