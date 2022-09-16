@@ -18,3 +18,7 @@ But du code :
 - mise à jour des valeurs tous les X intervalles, (Réalisé)
 - afficher 3 boutons en bas de page indiquant l'état actuel du plugin Chauffeau de Jeedom (pour rappel, le plugin Chauffeau calcul le temps nécessaire à la montée en température de consigne de l'eau par le ballon tout en prenant en compte les HP/HC). (Réalisé)
 - rendre le bouton de changer d'état du plugin Chauffeau clicable afin de déclencher une chauffe de l'eau. (à faire)
+
+Rendu final :
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/6itMewWaYgg/0.jpg)](https://youtu.be/6itMewWaYgg)
